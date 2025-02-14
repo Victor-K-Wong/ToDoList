@@ -1,0 +1,21 @@
+add Grocery Get milk, bread, and eggs.
+add Suit   Get my mystery-solving suit from the cleaners.
+add Watson Go speak with Watson about the latest case 
+check Watson
+add !Who Find who the murderer is.
+add !What Find the murder weapon.
+add !When Find when the murder took place.
+add !Where Find where the murderer is.
+add !Why Find why this heinous crime was committed.
+check Suit
+check !What
+check !Who
+uncheck !Who
+add Sorry Send appology letter to falsly accused man.
+check !When
+check !Why
+check !Who
+check !Where
+check Grocery
+quit
+

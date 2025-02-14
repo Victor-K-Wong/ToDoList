@@ -1,0 +1,88 @@
+
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[ ]    !!ID126 MAX PRIORITY: Fix crashing issue on AMD chips
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[X]    !!ID126 MAX PRIORITY: Fix crashing issue on AMD chips
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[X]    !!ID126 MAX PRIORITY: Fix crashing issue on AMD chips
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[ ]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[X]    !!ID126 MAX PRIORITY: Fix crashing issue on AMD chips
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[ ]    !!ID126 MAX PRIORITY: Fix crashing issue on AMD chips
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[ ]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[ ]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[X]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    ..ID124 Low priority: Think about stretch goals
+
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[X]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[X]    ..ID124 Low priority: Think about stretch goals
+
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[X]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    !.ID128 Med priority: Stress-test todo-list logic
+[X]    ..ID124 Low priority: Think about stretch goals
+
+ERROR: No name given.
+ERROR: No name given.
+ERROR: No name given.
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[X]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    !.ID128 Med priority: Stress-test todo-list logic
+[X]    ..ID124 Low priority: Think about stretch goals
+[ ]    NoDescription 
+
+Error: Too many arguments provided.
+Error: Too many arguments provided.
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[X]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    !.ID128 Med priority: Stress-test todo-list logic
+[X]    ..ID124 Low priority: Think about stretch goals
+[ ]    NoDescription 
+
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[X]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[ ]    !.ID128 Med priority: Stress-test todo-list logic
+[X]    ..ID124 Low priority: Think about stretch goals
+[ ]    NoDescription 
+
+[X]    !!ID126 MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+[X]    !.ID125 Med priority: Update documentation to reflect refactor
+[X]    !.ID127 Med priority: Investigate error logging weirdness
+[X]    !.ID128 Med priority: Stress-test todo-list logic
+[X]    ..ID124 Low priority: Think about stretch goals
+[ ]    NoDescription 
+

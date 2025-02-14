@@ -1,0 +1,23 @@
+add     ..ID124    Low priority: Think about stretch goals
+add     !.ID125    Med priority: Update documentation to reflect refactor
+add     !!ID126    MAX PRIORITY: Fix crashing issue on AMD chips
+check   !!ID126
+add     !.ID127    Med priority: Investigate error logging weirdness
+check   !.ID127
+uncheck !!ID126
+add     !!ID126    MAX PRIORITY: Find how AMD crash is evading the error log, then REALLY fix the error this time.
+check   !!ID126
+check   !.ID125
+check   ..ID124
+add     !.ID128    Med priority: Stress-test todo-list logic
+add
+check
+uncheck
+add     NoDescription
+check   Too many
+quit    TooMany
+check   NonExistant
+uncheck NonExistant
+check   !.ID128
+quit
+

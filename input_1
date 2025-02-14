@@ -1,0 +1,19 @@
+add ! If the entries are properly sorted by their name, then their text descriptions should count up from 0 to 15
+add GNOMIC 6
+add EFFIGY 4
+add NUCLEI 13
+add OCTROI 14
+add LAZULI 11
+add AUSPEX 0
+add JETSKI 9
+add ISTHMI 8
+add FORNIX 5
+add PAPYRI 15
+add BAJADA 1
+add DARKLY 3
+add KAWAII 10
+add CONVEX 2
+add MOIRAI 12
+add HAVOCS 7
+quit
+
